@@ -1,0 +1,21 @@
+
+.square {
+    height: 4rem;
+    width: 5rem;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 15rem;
+    margin: 0 auto;
+
+}
+
+
+
+
